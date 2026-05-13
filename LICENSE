@@ -1,0 +1,12 @@
+Public Domain Dedication
+
+This project is intended to be distributed on the same permissive basis as
+ImageJ 1.x.
+
+To the extent possible under law, the contributors waive all copyright and
+related or neighboring rights to their local modifications in this repository.
+The software is provided as-is, without warranty of any kind.
+
+This repository includes code derived from ImageJ 1.x
+`ij.plugin.frame.ContrastAdjuster`, which is described by the ImageJ project as
+public domain software. See `UPSTREAM.md` and `NOTICE.md` for provenance notes.

@@ -1,0 +1,7 @@
+target/
+.agents/
+.codex/
+*.class
+*.jar
+*.log
+.DS_Store
